@@ -1,0 +1,24 @@
+[2026-01-25 00:15:23] [User: 3] Error en acción 'delete': Permisos insuficientes
+[2026-01-25 00:15:37] [User: 3] Error en acción 'rename': Permisos insuficientes
+[2026-01-25 00:15:41] [User: 3] Error en acción 'enable': Permisos insuficientes
+[2026-01-25 00:15:43] [User: 3] Error en acción 'read': Permisos insuficientes
+[2026-01-25 00:15:45] [User: 3] Error en acción 'read': Permisos insuficientes
+[2026-01-25 00:20:24] [User: 3] Error en acción 'read': Permisos insuficientes
+[2026-01-25 01:58:34] [User: 3] Error en acción 'delete': Debes verificar tu identidad con Telegram primero. Haz clic en el botón "Telegram" en la parte superior.
+[2026-01-25 01:58:41] [User: 3] Error en acción 'rename': Debes verificar tu identidad con Telegram primero. Haz clic en el botón "Telegram" en la parte superior.
+[2026-01-25 02:04:22] [User: 3] Error de sintaxis en 000-default.conf: sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+[2026-01-25 02:04:22] [User: 3] Error en acción 'save': sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+[2026-01-25 02:04:51] [User: 3] Error al habilitar ufw: sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+[2026-01-25 02:04:51] [User: 3] Error en acción 'enable': Error al habilitar: sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+[2026-01-25 02:06:11] [User: 3] Error en acción 'enable': Debes verificar tu identidad con Telegram primero. Haz clic en el botón "Telegram" en la parte superior.
+[2026-01-25 02:39:03] [User: 3] Error al crear dawdwad.conf: sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+[2026-01-25 02:39:03] [User: 3] Error en acción 'create': Error al crear: sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+[2026-02-22 23:51:10] [User: 1] Error en acción 'delete': Debes verificar tu identidad con Telegram primero
+[2026-02-23 00:00:47] [User: 1] Error en acción 'read': Debes verificar tu identidad con Telegram primero
+[2026-02-23 01:01:18] [User: 1] Error en acción 'delete': Debes verificar tu identidad con Telegram primero

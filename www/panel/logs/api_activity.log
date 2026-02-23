@@ -1,0 +1,18 @@
+[2026-01-25 00:15:17] [User: 3] [IP: 192.168.1.68] [Action: create] Sitio: dwadwad.conf
+[2026-01-25 01:48:20] [User: 3] [IP: 192.168.1.68] [Action: read] Archivo: 000-default.conf
+[2026-01-25 01:48:45] [User: 3] [IP: 192.168.1.68] [Action: delete] Sitio: dwadwad.conf
+[2026-01-25 01:48:50] [User: 3] [IP: 192.168.1.68] [Action: create] Sitio: awdwad.conf
+[2026-01-25 01:48:55] [User: 3] [IP: 192.168.1.68] [Action: enable] Sitio: awdwad.conf
+[2026-01-25 01:48:59] [User: 3] [IP: 192.168.1.68] [Action: rename] De: awdwad.conf, A: awdwad.confdwadawd
+[2026-01-25 01:49:02] [User: 3] [IP: 192.168.1.68] [Action: delete] Sitio: awdwad.confdwadawd
+[2026-01-25 01:58:26] [User: 3] [IP: 192.168.1.68] [Action: create] Sitio: awdwad.conf
+[2026-01-25 01:58:44] [User: 3] [IP: 192.168.1.68] [Action: read] Archivo: awdwad.conf
+[2026-01-25 01:58:55] [User: 3] [IP: 192.168.1.68] [Action: read] Archivo: 000-default.conf
+[2026-01-25 02:04:20] [User: 3] [IP: 192.168.1.68] [Action: read] Archivo: 000-default.conf
+[2026-01-25 02:26:36] [User: 3] [IP: 192.168.1.68] [Action: read] Archivo: 000-default.conf
+[2026-02-22 22:57:15] [User: 1] [IP: 192.168.1.64] [Action: create] Sitio: wow.conf
+[2026-02-22 22:57:30] [User: 1] [IP: 192.168.1.64] [Action: delete] Sitio: wow.conf
+[2026-02-22 23:06:06] [User: 1] [IP: 192.168.1.64] [Action: read] Archivo: enginex
+[2026-02-22 23:06:37] [User: 1] [IP: 192.168.1.64] [Action: save] Archivo: enginex
+[2026-02-22 23:27:12] [User: 3] [IP: 192.168.1.64] [Action: create] Sitio: jajatl.conf
+[2026-02-23 01:27:20] [User: 1] [IP: 192.168.1.64] [Action: read] Archivo: enginex

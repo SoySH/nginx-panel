@@ -1,0 +1,82 @@
+2026-01-22 02:53:34 No se pudo enviar el código a Telegram
+2026-01-22 03:02:04 No se pudo enviar el código a Telegram
+2026-01-22 04:27:41 Error enviando Telegram
+2026-01-22 04:29:14 Error enviando Telegram
+2026-01-22 05:25:46 Error enviando Telegram
+2026-01-22 05:30:44 Error enviando Telegram
+2026-01-22 05:40:33 Telegram send result: false
+2026-01-22 05:40:33 Advertencia: Telegram no confirmó el envío, pero el código fue generado
+2026-01-22 05:43:37 Telegram send result: false
+2026-01-22 05:43:37 Advertencia: Telegram no confirmó el envío, pero el código fue generado
+2026-01-22 05:44:15 Telegram send result: false
+2026-01-22 05:44:15 Advertencia: Telegram no confirmó el envío, pero el código fue generado
+2026-01-22 05:48:15 Telegram send result: true
+2026-01-22 05:54:36 Telegram send result: true
+2026-01-22 06:03:54 Telegram send result: true
+2026-01-22 06:07:50 Telegram send result: true
+2026-01-22 06:07:56 AJAX Error [visudo]: Visudo ya está activo (expira en 63 segundos)
+2026-01-22 06:09:04 Telegram send result: true
+2026-01-22 06:09:09 AJAX Error [visudo]: Error al crear backup del sudoers
+2026-01-22 06:09:50 Telegram send result: true
+2026-01-22 06:09:55 AJAX Error [visudo]: Error al crear backup del sudoers
+2026-01-22 06:11:37 AJAX Error [visudo]: Error al crear backup del sudoers
+2026-01-22 06:16:37 Telegram send result: true
+2026-01-22 06:16:44 AJAX Error [visudo]: No se pudo leer el archivo sudoers
+2026-01-22 06:20:17 Telegram send result: true
+2026-01-22 06:50:25 Telegram send result: true
+2026-01-22 07:01:54 Telegram send result: true
+2026-01-22 07:02:00 AJAX Error [visudo]: Error: Los permisos no se habilitaron correctamente
+2026-01-22 07:02:15 Telegram send result: true
+2026-01-22 07:02:20 AJAX Error [visudo]: Error: Los permisos no se habilitaron correctamente
+2026-01-22 07:10:25 Telegram send result: true
+2026-01-22 07:10:31 AJAX Error [visudo]: Error al aplicar permisos: sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+2026-01-22 07:11:17 Telegram send result: true
+2026-01-22 07:11:21 AJAX Error [visudo]: Error al aplicar permisos: sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+2026-01-22 07:12:16 Telegram send result: true
+2026-01-22 07:12:21 AJAX Error [visudo]: Error al aplicar permisos: sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+2026-01-22 07:15:42 Telegram send result: true
+2026-01-22 07:15:48 AJAX Error [visudo]: Error de sintaxis: sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+2026-01-22 07:37:41 Telegram send result: true
+2026-01-22 07:37:48 AJAX Error [visudo]: No se pudo leer el archivo sudoers
+2026-01-22 07:41:39 Telegram send result: true
+2026-01-22 07:51:54 Telegram send result: true
+2026-01-22 08:05:10 Telegram send result: true
+2026-01-22 08:16:09 Telegram send result: true
+2026-01-22 08:24:55 Telegram send result: true
+2026-01-22 08:30:53 Telegram send result: true
+2026-01-22 08:31:10 AJAX Error [challenge-verify]: Código inválido o expirado
+2026-01-22 08:32:57 Telegram send result: true
+2026-01-22 08:41:01 Telegram send result: true
+2026-01-22 08:56:54 Telegram send result: true
+2026-01-22 08:56:59 AJAX Error [visudo]: Error al modificar sudoers: sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+2026-01-22 08:57:55 Telegram send result: true
+2026-01-22 08:58:00 AJAX Error [visudo]: Error al modificar sudoers: sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+2026-01-22 08:59:40 Telegram send result: true
+2026-01-22 09:20:48 Telegram send result: true
+2026-01-22 09:30:18 Telegram send result: true
+2026-01-24 00:31:36 Telegram send result: true
+2026-01-24 00:31:54 Telegram send result: true
+2026-01-24 01:37:50 Telegram send result: true
+2026-01-24 01:51:52 Telegram send result: true
+[2026-01-25 00:19:30] [User: 3] AJAX Error [visudo]: Call to undefined function grantVisudoPermission()
+[2026-01-25 01:29:39] [User: 3] AJAX Error [visudo]: Call to undefined function grantVisudoPermission()
+[2026-01-25 01:33:05] [User: 3] AJAX Error [visudo]: Visudo ya está activo (expira en 94 segundos)
+[2026-01-25 01:39:41] [User: 3] AJAX Error [visudo]: Call to undefined function grantVisudoPermission()
+[2026-01-25 01:44:52] [User: 3] AJAX Error [visudo]: Error al modificar sudoers: sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+[2026-01-25 01:47:09] [User: 3] AJAX Error [visudo]: Error al modificar sudoers: sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+[2026-01-25 02:06:19] [User: 3] AJAX Error [visudo]: Error al modificar sudoers: sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+[2026-01-25 02:07:25] [User: 3] AJAX Error [visudo]: Error al modificar sudoers: sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+[2026-01-25 02:19:52] [User: 3] AJAX Error [visudo]: Permisos inválidos: sudo: a password is required
+[2026-01-25 02:20:48] [User: 3] AJAX Error [visudo]: Permisos inválidos: sudo: a password is required
+[2026-01-25 02:24:31] [User: 3] AJAX Error [visudo]: Error activando permisos: sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required

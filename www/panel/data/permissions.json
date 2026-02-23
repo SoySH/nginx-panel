@@ -1,0 +1,14 @@
+[
+    {
+        "session": "ad2bd91fe5d3deba312c333e9c3d641e",
+        "usuario_id": 1,
+        "expires": 1771810312,
+        "granted_at": "2026-02-23 01:01:52"
+    },
+    {
+        "session": "6a08099877c6507d81605711c4b15eac",
+        "usuario_id": 1,
+        "expires": 1771811752,
+        "granted_at": "2026-02-23 01:25:52"
+    }
+]
