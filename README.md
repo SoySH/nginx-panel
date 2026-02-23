@@ -1,4 +1,4 @@
-# 🛡️ Nginx Secure Dash
+# 🛡️ Nginx Secure Panel
 
 ![Bash](https://img.shields.io/badge/Installer-Bash-121011?style=for-the-badge&logo=gnubash)
 ![PHP](https://img.shields.io/badge/Backend-PHP-777BB4?style=for-the-badge&logo=php)
@@ -94,7 +94,7 @@ El proyecto incluye:
 
 ---
 
-## Instalación
+# Instalación
 
 ```bash
 chmod +x instalador-enginex.sh
@@ -102,7 +102,7 @@ sudo ./instalador-enginex.sh
 Rellena tus datos de forma manual con usuario y contraseña de sesión final.
 Al final te muestra datos sensibles de la BD y de sesión final.
 
-## Durante la primera instalación:
+# Durante la primera instalación:
 
 🗝 Se genera automáticamente el archivo .env
 
@@ -118,7 +118,7 @@ No existen credenciales hardcodeadas
 
 ---
 
-## 🤖 Configuración de Telegram
+# 🤖 Configuración de Telegram
 
 Se debe configurar manualmente:
 
@@ -134,7 +134,7 @@ Debe editarse antes del primer uso
 
 ---
 
-## 🌐 Recomendaciones de Uso
+# 🌐 Recomendaciones de Uso
 
 Este panel gestiona archivos críticos de Nginx.
 
@@ -162,7 +162,7 @@ Revocación de privilegios
 
 ---
 
-## ⚠️ Advertencia
+# ⚠️ Advertencia
 
 Este panel manipula configuraciones críticas del servidor.
 
@@ -178,7 +178,7 @@ No se recomienda como solución multiusuario pública ni como panel expuesto a i
 
 ---
 
-## 📜 Licencia
+# 📜 Licencia
 
 Uso interno / privado.
 Distribución bajo responsabilidad del administrador.
