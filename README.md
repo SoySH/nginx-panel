@@ -37,7 +37,7 @@ Archivo: `home.php`
 - Máximo **5 intentos fallidos** de inicio de sesión.
 - Si se supera el límite:
   - 🔒 Se bloquea **solo el usuario afectado**
-  - ⏱ Bloqueo de **30 minutos**
+  - ⏱ Bloqueo de **15 minutos**
   - El estado se almacena en la base de datos
 - No afecta a otros usuarios.
 
@@ -92,11 +92,15 @@ El proyecto incluye:
 - `instalador-enginex.sh`
 - Carpeta `www/` con todo el sistema
 
+---
+
 ## Instalación
 
 ```bash
 chmod +x instalador-enginex.sh
 sudo ./instalador-enginex.sh
+Rellena tus datos de forma manual con usuario y contraseña de sesión final.
+Al final te muestra datos sensibles de la BD y de sesión final.
 
 ## Durante la primera instalación:
 
@@ -112,6 +116,8 @@ No es predecible
 
 No existen credenciales hardcodeadas
 
+---
+
 ## 🤖 Configuración de Telegram
 
 Se debe configurar manualmente:
@@ -125,6 +131,8 @@ Contiene el token del bot
 No está expuesto públicamente
 
 Debe editarse antes del primer uso
+
+---
 
 ## 🌐 Recomendaciones de Uso
 
@@ -152,6 +160,8 @@ Expiración automática
 
 Revocación de privilegios
 
+---
+
 ## ⚠️ Advertencia
 
 Este panel manipula configuraciones críticas del servidor.
@@ -165,6 +175,8 @@ Utilidad interna
 Panel de uso propio
 
 No se recomienda como solución multiusuario pública ni como panel expuesto a internet.
+
+---
 
 ## 📜 Licencia
 
